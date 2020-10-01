@@ -106,5 +106,11 @@ export default [
         animeName:"Pokemon XY",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+	{
+        animeEmoji:"👣😸👨‍ 👊",
+        animeName:"Yakusoku no Neverland 2nd Season",
+        animeYear:2021,
+        animeLink:"https://myanimelist.net/anime/39617/Yakusoku_no_Neverland_2nd_Season"
     }
 ]
