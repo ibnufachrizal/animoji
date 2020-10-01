@@ -112,5 +112,11 @@ export default [
         animeName:"Yakusoku no Neverland 2nd Season",
         animeYear:2021,
         animeLink:"https://myanimelist.net/anime/39617/Yakusoku_no_Neverland_2nd_Season"
+    },
+	}
+        animeEmoji:"👣😸🏹 🔮",
+        animeName:"Shingeki no Kyojin: The Final Season",
+        animeYear:2021,
+        animeLink:"https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season"
     }
 ]
