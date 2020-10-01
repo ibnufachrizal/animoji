@@ -130,5 +130,11 @@ export default [
         animeName:"Tate no Yuusha no Nariagari Season 2",
         animeYear:2021,
         animeLink:"https://myanimelist.net/anime/40356/Tate_no_Yuusha_no_Nariagari_Season_2"
+    },
+	}
+        animeEmoji:"👣😸😸",
+        animeName:"Dr. Stone: Stone Wars",
+        animeYear:2021,
+        animeLink:"https://myanimelist.net/anime/40852/Dr_Stone__Stone_Wars"
     }
 ]
