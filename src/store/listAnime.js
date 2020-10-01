@@ -118,5 +118,11 @@ export default [
         animeName:"Shingeki no Kyojin: The Final Season",
         animeYear:2021,
         animeLink:"https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season"
+    },
+	}
+        animeEmoji:"👣😸😸",
+        animeName:"Tensei shitara Slime Datta Ken 2nd Season",
+        animeYear:2021,
+        animeLink:"https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season"
     }
 ]
