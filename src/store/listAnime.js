@@ -124,5 +124,11 @@ export default [
         animeName:"Tensei shitara Slime Datta Ken 2nd Season",
         animeYear:2021,
         animeLink:"https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season"
+    },
+	}
+        animeEmoji:"👣😸",
+        animeName:"Tate no Yuusha no Nariagari Season 2",
+        animeYear:2021,
+        animeLink:"https://myanimelist.net/anime/40356/Tate_no_Yuusha_no_Nariagari_Season_2"
     }
 ]
